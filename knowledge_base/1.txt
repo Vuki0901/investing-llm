@@ -1,0 +1,80 @@
+# Osnovni pojmovi ulaganja
+
+Ulaganje je odvajanje novca za budućnost s ciljem da taj novac "radi" za nas i raste tijekom vremena. Glavna svrha ulaganja je povećati vrijednost imovine uz prihvaćanje određenog rizika.
+
+# Razlika između štednje i ulaganja
+
+Štednja znači izdvajanje novca radi sigurnosti, najčešće u banci, s minimalnim rizikom i niskom kamatom.  
+Investiranje je usmjereno na veći povrat i povećanje bogatstva, ali uz viši rizik. Likvidnost ulaganja ovisi o vrsti instrumenta.
+
+# Vrste investicija
+
+## Obveznice  
+Obveznice su dužnički vrijednosni papiri koje izdaju države, općine ili kompanije. Investitor posuđuje novac izdavatelju, a on ga vraća uz kamate. Obveznice se smatraju konzervativnijim ulaganjem s nižim rizikom i nižim prinosom.
+
+## Dionice  
+Kupnjom dionica postaješ suvlasnik kompanije. Dionice omogućuju potencijalno višu zaradu kroz rast vrijednosti i dividende, ali uz veći rizik (mogući gubitak uloženog novca).
+
+## ETF-ovi (Exchange Traded Funds)  
+ETF-ovi su investicijski fondovi kojima se trguje na burzi, najčešće prate neki indeks. Nude diversifikaciju, niske troškove i likvidnost.  
+UCITS fondovi su profesionalno vođeni fondovi različitih strategija (aktivni i pasivni).
+
+## Nekretnine  
+Ulaganje u nekretnine uključuje kupnju stanova, kuća ili zemljišta s ciljem najma ili preprodaje. Potrebni su veći iznosi, manje su likvidne, ali mogu donijeti stabilan prihod.
+
+## Kriptovalute  
+Kriptovalute su digitalna imovina poput Bitcoina ili Ethereuma. Tržište je vrlo nestabilno, mogući su veliki dobitci i gubitci. Prije ulaganja potrebno je dobro razumjeti rizike i tehnologiju.
+
+## Zlato  
+Zlato se koristi za zaštitu od inflacije i diversifikaciju portfelja. Može se ulagati kroz fizičko zlato ili financijske instrumente (ETF-ovi, dionice rudarskih kompanija).
+
+# Diversifikacija
+
+Diversifikacija znači ulaganje u različite vrste imovine (dionice, obveznice, nekretnine, fondove, kripto) radi smanjenja ukupnog rizika.
+
+# Investicijska strategija
+
+Investicijska strategija je plan koji uključuje ciljeve ulaganja, toleranciju na rizik i vremenski horizont.  
+Ključni koraci:  
+1. Odredi cilj (npr. mirovina, stan, štednja za djecu)  
+2. Procijeni koliko si spreman preuzeti rizika  
+3. Razmisli o vremenskom okviru ulaganja  
+4. Diversificiraj ulaganja
+
+# Mirovinski fondovi u Hrvatskoj
+
+- Prvi stup: međugeneracijska solidarnost (15% bruto plaće)
+- Drugi stup: obvezni mirovinski fondovi (5% bruto plaće, ulaže se na tržištu kapitala)
+- Treći stup: dobrovoljni mirovinski fondovi (dodatna štednja, moguća državna potpora)
+
+# Početnički savjeti
+
+- Počni s malim iznosima, dugoročno ulaganje nosi najveće prednosti (efekt ukamaćivanja)
+- Prije ulaganja prouči sve troškove, poreze i naknade
+- Redovito prati vrijednost svojih ulaganja i prilagođavaj plan
+- Ne ulaži novac koji ti je hitno potreban
+- Informiraj se iz pouzdanih izvora (HANFA, službeni financijski portali)
+
+# Rizici ulaganja
+
+- Tržišni rizik: vrijednost investicija može rasti ili padati
+- Kreditni rizik: izdavatelj obveznice možda neće vratiti novac
+- Likvidnosni rizik: teškoća prodaje imovine
+- Inflacija: može smanjiti realnu vrijednost povrata
+- Regulacija i porezi: pravila se mogu mijenjati
+
+# Psihologija ulaganja
+
+Važno je biti svjestan vlastitih emocija i ne donositi ishitrene odluke u panici ili euforiji. Dugoročan i discipliniran pristup daje najbolje rezultate.
+
+# Traženje savjeta
+
+Konzultiraj se sa stručnjacima (npr. ovlašteni financijski savjetnik), koristi online edukacije i službene portale. Ne slijedi "vruće savjete" s interneta.
+
+# Zaključak
+
+Ulaganje je dostupno svima, ali zahtijeva osnovnu edukaciju i planiranje. Kreni polako, informiraj se i biraj raznolike investicije prema svojim ciljevima i riziku.
+
+---
+
+IZVOR: “Ulaganje za početnike”, Štedopis, 2024.

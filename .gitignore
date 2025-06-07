@@ -1,0 +1,8 @@
+#Files ending in .gguf, those are model files and are too large for git
+*.gguf
+
+#__pycache__ is a directory created by Python to store bytecode-compiled files
+__pycache__
+
+#venv is a Python virtual environment directory
+venv

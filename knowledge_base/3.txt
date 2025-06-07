@@ -1,0 +1,101 @@
+# Analiza isplativosti ulaganja
+
+Analiza isplativosti ulaganja koristi se za procjenu isplativosti projekata kroz novčane tokove, investicijske troškove i očekivane prihode.
+
+## Ključni pojmovi
+
+- **Neto novčani tokovi** = Prihodi - Rashodi - Porezi + Amortizacija - Kapitalna ulaganja
+- **Amortizacija** – raspodjela troška imovine tijekom vijeka trajanja
+- **Porezna osnovica** = Prihodi - Rashodi - Amortizacija
+
+## Kriteriji za odabir projekata
+
+Kod procjene projekta važno je da metoda bude:
+- Realna (uzima u obzir rizik)
+- Jednostavna za korištenje
+- Prilagodljiva i dovoljno fleksibilna
+- Omogućava analizu osjetljivosti
+- Troškovno učinkovita
+
+# Temeljne metode za ocjenu isplativosti ulaganja
+
+## 1. Metoda neto sadašnje vrijednosti (NPV)
+
+NPV je razlika sadašnje vrijednosti neto novčanih tokova i investicijskih troškova.
+- **Formula:**  
+  NPV = ∑ (Ft / (1+p)^t) - I  
+  gdje je Ft = novčani tok u godini t, p = diskontna stopa, I = inicijalno ulaganje
+
+- **Odluka:**  
+  Ako je NPV ≥ 0, projekt je isplativ.
+
+## 2. Metoda interne stope rentabilnosti (IRR)
+
+IRR je diskontna stopa kod koje je NPV projekta nula.  
+- **Odluka:**  
+  Projekt je prihvatljiv ako je IRR veći od troška kapitala.
+
+## 3. Metoda razdoblja povrata investicije (Payback period)
+
+Broj godina potrebnih da se početno ulaganje vrati kroz novčane tokove.
+- **Odluka:**  
+  Projekt je prihvatljiv ako je razdoblje povrata kraće od zadanog maksimuma.
+
+## 4. Metoda diskontiranog razdoblja povrata
+
+Kao i klasična metoda povrata, ali koristi diskontirane novčane tokove (uzima u obzir vremensku vrijednost novca).
+
+## 5. Metoda indeksa profitabilnosti
+
+Indeks profitabilnosti je omjer sadašnje vrijednosti novčanih tokova i investicijskih troškova.
+- **Formula:**  
+  IP = ∑ (Ft / (1+p)^t) / I
+- **Odluka:**  
+  Ako je IP > 1, projekt je isplativ.
+
+## 6. Metoda odnosa koristi i troškova
+
+Omjer sadašnje vrijednosti primitaka i izdataka, favorizira projekte s nižim ulaganjima uz isti učinak.
+
+## 7. Metoda anuiteta
+
+Uspoređuje prosječnu godišnju vrijednost neto novčanih tokova s prosječnim godišnjim troškom ulaganja.
+
+# Primjeri
+
+- **Ako je projekt vrijedan 62.000 kn i generira godišnje neto tokove od 21.600 kn:**  
+  - NPV pri 11% diskontnoj stopi = 42.673 kn (isplativo)
+  - IRR ~30% (isplativo ako je trošak kapitala manji od toga)
+  - Razdoblje povrata = 3 godine
+
+- **Indeks profitabilnosti primjera:**  
+  IP = 104.673 / 62.000 = 1,69
+
+# Zadaci za vježbu (skraćeno)
+
+- Procjena isplativosti dvaju projekata na temelju novčanih tokova i diskontne stope (odabrati onaj s većim NPV-om).
+- Proračun maksimalnog ulaganja kod zadanih novčanih tokova i diskontne stope.
+- Određivanje prihoda potrebnog za zadani NPV.
+
+# Trošak kapitala
+
+Trošak kapitala je ponderirani prosječni trošak svih izvora financiranja (dug, vlastiti kapital, povlaštene dionice).
+- **WACC formula:**  
+  WACC = wd * kd + wp * kp + ws * ks  
+  (wd, wp, ws = udjeli izvora; kd, kp, ks = troškovi izvora)
+
+- **Trošak duga:**  
+  Efektivna kamatna stopa na kredit
+- **Trošak povlaštenih dionica:**  
+  Dividenda / Cijena dionice
+- **Trošak običnog kapitala:**  
+  Model rasta dividende, CAPM ili povrat na obveznice
+
+# Dodana ekonomska vrijednost (EVA)
+
+EVA = Neto dobit - Trošak kapitala  
+Pokazuje doprinos projekta ukupnom bogatstvu poduzeća.
+
+---
+
+IZVOR: “Analiza isplativosti ulaganja”, D. Mundar, 2012.

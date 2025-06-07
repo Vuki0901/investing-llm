@@ -1,0 +1,62 @@
+# Kako prepoznati i izbjeći financijske prijevare
+
+## Povijest i vrste financijskih prijevara
+
+Financijske prijevare su stare koliko i novac. S razvojem tržišta i tehnologije, prijevare postaju sve sofisticiranije. Povijesno su poznate Ponzi sheme, “kralj financijskih iluzija” Charles Ponzi, Bernie Madoff i moderne piramidalne igre poput OneCoina. U novije vrijeme, digitalizacija i kriptovalute omogućuju nove vrste prijevara.
+
+## Najpoznatije prijevare i online prijetnje
+
+- **Ponzi shema:** obećava visoke i brze povrate, koristi novac novih ulagača za isplatu starima. Najpoznatiji su Charles Ponzi i Bernie Madoff.
+- **Online prijevare:** ponude za ulaganje s nepoznatih brojeva, sumnjivi oglasi i “brokeri” koji nude veliku zaradu. Ako ponuda zvuči predobro da bi bila istinita – vjerojatno je prijevara.
+- **Malware, vishing i phishing:** štetni linkovi, lažni telefonski pozivi i mailovi, krađa osobnih podataka.
+- **Money mule:** posrednici za prijenos ukradenog novca, često mladi ili socijalno ugroženi ljudi.
+
+## Tipični znakovi prijevare
+
+- Ponuda visokog, brzog i sigurnog povrata
+- Pozivanje na “poznate osobe” i luksuzan život
+- Učestalo traženje dodatnih uplata i agresivno ponašanje kad se traži povrat novca
+- Pozivi i komunikacija s inozemnih brojeva, izbjegavanje pisanih tragova
+- Društva registrirana na egzotičnim destinacijama (npr. Sejšeli, Vanuatu)
+- Nedostatak transparentnosti i kontakt informacija
+
+## Kako se zaštititi?
+
+1. **Edukacija:** upoznaj se s najčešćim oblicima prijevara.
+2. **Provjera autentičnosti:** uvijek provjeri tvrtku ili brokera u HANFA registru prije ulaganja.
+3. **Ne dijeli povjerljive podatke:** nikada ne otkrivaj osobne podatke, PIN-ove i lozinke nepoznatim osobama.
+4. **Ignoriraj sumnjive pozive i ponude:** prekini razgovor ako je ponuda “predobra”.
+5. **Pazi na investicijska društva izvan EU:** naročito s egzotičnih otoka, gdje je nadzor slab.
+6. **Prijavi sumnjive aktivnosti:** HANFA-i i policiji.
+
+## Posebno o kriptotržištu i kriptovalutama
+
+- Kriptovalute nisu pod nadzorom središnjih banaka.
+- Za trgovanje je potreban “wallet” – privatni ključ je najvažniji, ako ga izgubiš, gubiš sredstva.
+- Kriptotržište je visokorizično zbog volatilnosti i nedostatka zaštite.
+- Česte su lažne stranice i aplikacije koje oponašaju mjenjačnice, fondove i novčanike.
+- Najpoznatije kriptoprijevara: FTX, pump-and-dump, rug pull, Pig Butchering.
+
+## Nova regulativa (MiCA)
+
+- Od 2024/2025. uvodi se stroža regulacija EU za kriptoimovinu radi zaštite ulagača.
+- Pruža više sigurnosti, ali ne štiti od tržišnih rizika (gubitak vrijednosti).
+- Samo ovlašteni pružatelji usluga virtualne imovine mogu legalno nuditi usluge građanima RH.
+- Popis društava je dostupan na stranicama Hanfe.
+
+## Što ako postaneš žrtva prijevare?
+
+- Prekini svaki kontakt s prevarantom.
+- Ne uplaćuj dodatni novac.
+- Prijavi slučaj policiji i HANFA-i.
+- Ako je moguće, pokušaj povrat ulaganja putem regulatora (ali često nije moguće kod nereguliranih društava izvan EU).
+
+## Najvažnije poruke za zaštitu
+
+- Ne postoji laka i sigurna zarada.
+- Svaka investicija nosi rizik.
+- Provjeravaj partnere i koristi samo licencirane brokere.
+- Pazi na svoje podatke i nikad ih ne dijeli online.
+- Prati službene stranice HANFA-e za edukaciju i upozorenja.
+
+IZVOR: “Kako zaštititi svoj novac? – HANFA vodič o financijskim prijevarama”, 2024.
