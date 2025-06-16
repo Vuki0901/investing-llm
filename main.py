@@ -46,7 +46,7 @@ llm = Llama(
 def chat(query, k=1):
     results = db.similarity_search(query, k=k)
     context = "\n".join([r.page_content for r in results])
-    prompt = f"Na temelju donjeg konteksta odgovori jasno i jednostavno na korisnikovo pitanje:\n\nKontekst:\n{context}\n\nPitanje: {query}\nOdgovor (završi cijelu rečenicu samo na hrvatskom jeziku):"
+    prompt = f"Na temelju donjeg konteksta odgovori jasno i jednostavno na korisnikovo pitanje:\n\nKontekst:\n{context}\n\nPitanje: {query}\nOdgovor (završi cijelu rečenicu):"
     output = llm(prompt=prompt, max_tokens=256, stop=["Kontekst:", "Pitanje:"])
     answer = output["choices"][0]["text"].strip()
     
